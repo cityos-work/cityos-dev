@@ -2,7 +2,7 @@
 
 This is the repository for the documentation of the [CityOS Framework].
 
-Anyone is invited to contribute to the docs.
+You are invited to contribute to the docs.
 
 These docs refer to the CityOS Framework only.   
 There is a separate repository for the [IM.CITY Docs].
