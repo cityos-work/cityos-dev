@@ -28,8 +28,8 @@ It is a modular system that can be used to build a new digital platform or to ex
 
 A digital city can address any kind of community, from a small group of friends to a large city and its citizens.
 
-There are 2 layers in the CityOS framework: 
-- the **virtual city** layer and
-- the **smart city** layer.
+There are 2 extensions available for a **digital city** in the CityOS framework: 
+- the **virtual city** 
+- the **smart city** 
 
 
