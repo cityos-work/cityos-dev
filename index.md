@@ -13,7 +13,7 @@ last_modified_date: 2022-11-17 10:40
 
 ----------------
 
-The **CityOS** provide proper tools    
+The **CityOS** provide the proper tools    
 for any type of community   
 to build their own **participatory & rewarding framework**    
 by creating a _digital city_ ecosystem    
@@ -31,6 +31,5 @@ A digital city can address any kind of community, from a small group of friends 
 There are 2 layers in the CityOS framework: 
 - the **virtual city** layer and
 - the **smart city** layer.
-
 
 
