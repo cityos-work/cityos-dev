@@ -22,7 +22,7 @@ for their social interactions and their digital assets.
 A _digital city_ can be created from scratch or by connecting to an existing city.  
 In the case of connecting to an existing city, the _digital city_ can have the same geographical boundaries as the existing city, or it can be open to the whole world.
 
-CityOS is a **token-based** framework, that allows the community to **reward their community members** for their contributions.
+CityOS is a **token-based** framework, that allows the community to **reward their community members** for their participation.
 
 It is a modular system that can be used to build a new digital platform or to extend an existing one.
 
@@ -31,3 +31,6 @@ A digital city can address any kind of community, from a small group of friends 
 There are 2 layers in the CityOS framework: 
 - the **virtual city** layer and
 - the **smart city** layer.
+
+
+
