@@ -10,7 +10,13 @@ last_modified_date: 2022-11-25 10:40
 
 - [ ] **The Base** 
 
-    _The basic framework for the CityOS ecosystem including the common elements for both the digital and the virtual city. (EG user management, tokens management, participatory gramework, rewarding framework)_
+    _The basic framework for the CityOS ecosystem including the common elements for both the digital and the virtual city._
+
+    - [ ] _User Management_
+    - [ ] _Tokens Management_
+    - [ ] _Participatory Framework_
+    - [ ] _Rewarding Framework_
+
 
 
 - [ ] **The Prototype** (v0.0.1)
