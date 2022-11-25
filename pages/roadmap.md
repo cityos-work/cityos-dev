@@ -25,27 +25,14 @@ last_modified_date: 2022-11-25 10:40
 
 - [ ] **The Prototype** (v0.0.1)
 
-    _A prototype of the CityOS ecosystem for each layer:_ 
-  - [The Digital City Roadmap] 
-  - [The Virtual City Roadmap]
+    _A prototype of the CityOS ecosystem for each layer._
 
 
 - [ ] **The MVP** (v0.1.0)
 
-    _The minimum viable product for the CityOS ecosystem for each layer:_ 
-  - [The Digital City Roadmap] 
-  - [The Virtual City Roadmap]
+    _The minimum viable product for the CityOS ecosystem for each layer._
 
 
 - [ ] **V1**
     
-    _The first version of the CityOS ecosystem for each layer:_ 
-  - [The Digital City Roadmap] 
-  - [The Virtual City Roadmap]
-
-
-[The Digital City Roadmap]: /pages/digital-city.html "Digital City Roadmap"
-[The Virtual City Roadmap]: /pages/virtual-city.html "Virtual City Roadmap"
-
-[IM.CITY]: https://im.city "The Digital City"
-[UR.CITY]: https://ur.city "The Virtual City"
+    _The first version of the CityOS ecosystem for each layer._
