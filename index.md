@@ -8,7 +8,7 @@ last_modified_date: 2022-11-17 10:40
 {: .warning }
 >This is work in progress.
 >
->Do not base any business or other kind of decision off this documentation.   
+>Please do not base any business or other kind of decision off this documentation.   
 >It is not complete and will be updated regularly.  
 >If you need to know more about this framework, please [Contact Us]
 
