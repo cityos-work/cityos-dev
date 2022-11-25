@@ -10,7 +10,7 @@ last_modified_date: 2022-11-25 10:40
 
 - [ ] **The Base** 
 
-    _The basic framework for the CityOS ecosystem including the common elements for both the digital and the virtual city._
+    _The basic framework for the CityOS ecosystem including the common elements for both layers, digital & virtual._
 
     - [ ] _User Management_
     - [ ] _Tokens Management_
@@ -23,17 +23,23 @@ last_modified_date: 2022-11-25 10:40
 
 - [ ] **The Prototype** (v0.0.1)
 
-    _A prototype of the CityOS ecosystem for each layers: the digital city [IM.CITY], the virtual city [UR.CITY]._
+    _A prototype of the CityOS ecosystem for each layer:_ 
+  - [IM.CITY] - the digital city 
+  - [UR.CITY] - the virtual city
 
 
 - [ ] **The MVP** (v0.1.0)
 
-    _The minimum viable product for the CityOS ecosystem for each layers: the digital city [IM.CITY], the virtual city [UR.CITY]._
+    _The minimum viable product for the CityOS ecosystem for each layer:_ 
+  - [IM.CITY] - the digital city 
+  - [UR.CITY] - the virtual city
 
 
 - [ ] **V1**
     
-    _The first version of the CityOS ecosystem for each layers: the digital city [IM.CITY], the virtual city [UR.CITY]._
+    _The first version of the CityOS ecosystem for each layer:_ 
+  - [IM.CITY] - the digital city 
+  - [UR.CITY] - the virtual city
 
 
 [IM.CITY]: https://im.city "The Digital City"
