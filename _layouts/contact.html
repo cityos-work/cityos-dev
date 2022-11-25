@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<div>
+    <form action="https://api.web3forms.com/submit" method="POST">
+
+        <input type="hidden" name="access_key" value="{{ site.contact_web3form_id }}">
+        <input type="hidden" name="redirect" value="{{ site.contact_web3form_success_url }}">
+
+        <div style="margin-top: 10px;">
+            Your Name
+        </div>
+        <div>
+            <input type="text" name="name" required>
+        </div>
+        <div style="margin-top: 10px;">
+            Your Email
+        </div>
+        <div>
+           <input type="email" name="email" required>
+        </div>
+        <div style="margin-top: 10px;">
+            Your Message
+        </div>
+        <div>
+            <textarea name="message" rows="8" required></textarea>
+        </div>
+        <div style="margin-top: 6px;">
+            <button type="submit">Submit Form</button>
+        </div>
+
+    </form>
+</div>

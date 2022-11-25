@@ -8,7 +8,7 @@ last_modified_date: 2022-11-25 10:40
 
 ----------------
 
-- [ ] **The Base** 
+- [ ] **The Base**
 
     _The basic framework for the CityOS ecosystem including the common elements for both layers, digital & virtual._
 
