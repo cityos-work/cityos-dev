@@ -4,10 +4,12 @@ layout: home
 last_modified_date: 2022-11-17 10:40
 ---
 
-{: .note }
-> This is work in progress. The project is in its early stages and the documentation is not complete.    
-> We are working on it. Do not base any business or other kind of decision off this documentation.  
-> If you have any questions, please contact us at contact @IM.CITY.
+{: .warning }
+>This is work in progress.
+>
+>Do not base any business or other kind of decision off this documentation.   
+>It is not complete and will be updated regularly.  
+>If you need to know more about this platform, please [Contact Us]
 
 ## What is CityOS?
 
@@ -27,3 +29,5 @@ CityOS is a **token-based** framework, that allows the community to **reward the
 It is a modular system that can be used to build a new digital platform or to extend an existing one.
 
 A digital city can address any kind of community, from a small group of friends to a large city and its citizens.
+
+[Contact Us]: /pages/contact.html "Contact Us"
