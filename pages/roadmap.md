@@ -16,6 +16,7 @@ last_modified_date: 2022-11-25 10:40
 
     - [ ] _User Management_
     - [ ] _Tokens Management_
+    - [ ] _Organizations Management_
     - [ ] _Teams Management_
     - [ ] _Context Management_
     - [ ] _Participatory Framework_
