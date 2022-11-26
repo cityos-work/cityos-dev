@@ -28,12 +28,12 @@ This refers to the code pattern. We'll use the simpler create, read, update, and
 
 ### 5. ReMaSc
 
-a) Release
-b) Manage
-c) Scale
+a) Release   
+b) Manage   
+c) Scale   
 
 This means:
 
-a) Make it work
-b) Only then, make it pretty (aka maintainable)
-c) Only then, make it scalable
+a) Make it work   
+b) Only then, make it pretty (aka maintainable)   
+c) Only then, make it scalable   
