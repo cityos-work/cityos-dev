@@ -41,3 +41,4 @@ The commercial activity of the project is coordinated by New Stage Technology sr
 [IM.CITY]: https://im.city "IM.CITY"
 [UR.CITY]: https://ur.city "UR.CITY"
 [Clement Nicolaescu]: https://www.linkedin.com/in/clementnicolaescu/
+[Digital City Institute]: https://digital.city.institute "Digital City Institute"
