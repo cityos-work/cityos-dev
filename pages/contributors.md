@@ -16,7 +16,8 @@ The **CityOs** project aims to be a community driven project. We are always look
 
 ----------------
 
-[Clement Nicolaescu] is the initiator and lead developer of the project. He is a software engineer with a passion for open source and decentralization. He is also the founder of [IM.CITY] and [UR.CITY].
+[Clement Nicolaescu] is the initiator and lead developer of the project.    
+He is also the founder of [IM.CITY] and [UR.CITY].
 
 
 Clement is a serial entrepreneur in various technology areas like ecommerce development, smart home technologies, virtual worlds, digital communications and interactions.
