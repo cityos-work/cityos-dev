@@ -16,7 +16,9 @@ The **CityOs** project aims to be a community driven project. We are always look
 
 ----------------
 
-**[Clement Nicolaescu]** is the initiator and lead developer of the project. He is a software engineer with a passion for open source and decentralization. He is also the founder of [IM.CITY] and [UR.CITY].
+[Clement Nicolaescu] is the initiator and lead developer of the project. He is a software engineer with a passion for open source and decentralization. He is also the founder of [IM.CITY] and [UR.CITY].
+
+
 Clement is a serial entrepreneur in various technology areas like ecommerce development, smart home technologies, virtual worlds, digital communications and interactions.
 
 Over the past 10+ years, as the managing director and co-founder of TheLIVE.agency, he coordinated live video production projects in multiple European cities like Bucharest, Amsterdam, Zurich, Paris, Vienna, Geneva, Budapest, and Prague.
@@ -26,7 +28,7 @@ Over the past 10+ years, as the managing director and co-founder of TheLIVE.agen
 
 ----------------
 
-The entire development work is based on the research and conceptualization work done within the [Digital City Institute] think tank, a non-profit organization that aims to promote the development of the digital society and the digital economy. 
+The entire development work is based on the research and conceptualization work done within the **[Digital City Institute]** think tank, a non-profit organization that aims to promote the development of the digital society and the digital economy. 
 
 
 ## Development Company
