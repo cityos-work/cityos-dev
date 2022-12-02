@@ -31,4 +31,16 @@ It is a modular system that can be used to build a new digital platform or to ex
 
 A digital city can address any kind of community, from a small group of friends to a large city and its citizens.
 
+## What is the difference between a digital city and a virtual city
+
+------------------
+
+### Digital City
+
+Digital cities are detailed digital representations of real-world social interactions created to increase community participation.
+
+### Virtual City
+
+Virtual cities are simulated cities created in a virtual environment, often for entertainment or educational purposes.
+
 [Contact Us]: /pages/contact.html "Contact Us"
