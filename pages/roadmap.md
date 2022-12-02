@@ -19,8 +19,8 @@ last_modified_date: 2022-11-25 10:40
     - [ ] _Organizations Management_
     - [ ] _Teams Management_
     - [ ] _Context Management_
-    - [ ] _Participatory Framework_
-    - [ ] _Rewarding Framework_
+    - [ ] _Intelligent Participatory Framework_
+    - [ ] _Digital Rewards Framework_
 
 
 

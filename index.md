@@ -31,7 +31,7 @@ It is a modular system that can be used to build a new digital platform or to ex
 
 A digital city can address any kind of community, from a small group of friends to a large city and its citizens.
 
-## What is the difference between a digital city and a virtual city
+## What is the difference between a `digital city` and a `virtual city`
 
 ------------------
 
