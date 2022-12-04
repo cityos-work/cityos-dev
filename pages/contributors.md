@@ -2,6 +2,7 @@
 title: Contributors
 layout: page
 nav_order: 50
+permalink: "/contributors/"
 last_modified_date: 2022-11-26 10:40
 ---
 
