@@ -11,3 +11,15 @@ last_modified_date: 2022-12-04 10:40
 
 ----------------
 
+
+{: .note }
+>The following Terms and Conditions apply to the following online platforms using the CityOS Framework:
+>
+>- [IM.CITY]
+>- [UR.CITY]
+
+
+
+
+[IM.CITY]: https://im.city
+[UR.CITY]: https://ur.city
