@@ -20,5 +20,5 @@ graph TD;
     CSC-->DR["Digital Rewards"];
     CSI-->DR;
     CSP-->DR;
-    style CS fill:#f9f,stroke:#333,stroke-width:2px,font-weight: bold
+    style CS fill:#f9f,stroke:#333,stroke-width:2px,font-weight:bold
 ```
