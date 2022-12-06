@@ -16,8 +16,8 @@ last_modified_date: 2022-12-04 10:40
 ```mermaid
 graph TD;
     U[\Smart Citizen/]-- Check-In -->CS((City Space));
-    CS-->CSC[Content];
     CS-->CSI[Interactions];
+    CS-->CSC[Content];
     CS-->CSP[Participation];
     CSC-->DR>Digital Rewards];
     CSI-->DR;
