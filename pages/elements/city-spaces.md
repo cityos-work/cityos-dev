@@ -19,8 +19,8 @@ graph TD;
     CS-->CSI[Interactions];
     CS-->CSC[Content];
     CS-->CSP[Participation];
-    CSC-->DR>Digital Rewards];
-    CSI-->DR;
+    CSI-->DR>Digital Rewards];
+    CSC-->DR;
     CSP-->DR;
     style U fill:#6df,stroke:#333,stroke-width:2px
     style CS fill:#fc9,stroke:#333,stroke-width:2px
