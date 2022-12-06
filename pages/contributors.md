@@ -33,6 +33,7 @@ Over the past 10+ years, as the managing director and co-founder of TheLIVE.agen
 The entire development work is based on the research and conceptualization work done within the **[Digital City Institute]** think tank, a non-profit organization that aims to promote the development of the digital society and the digital economy. 
 
 [Academic Supervisory Board]    
+
 [Professional Supervisory Board]
 
 ## Development Company
