@@ -13,11 +13,12 @@ last_modified_date: 2022-12-04 10:40
 
 ```mermaid
 graph TD;
-    A["City Space"]-->B["Check-in"];
-    B-->C["City Space Content"];
-    B-->D["City Space Interactions"];
-    B-->E["City Space Participation"];
-    C-->F["Digital Rewards"];
-    D-->F;
-    E-->F;
+    CS("City Space")-->CI["Check-in"];
+    CI-->CSC["City Space Content"];
+    CI-->CSI["City Space Interactions"];
+    CI-->CSP["City Space Participation"];
+    CSC-->DR["Digital Rewards"];
+    CSI-->DR;
+    CSP-->DR;
+    style CS fill:#f9f,stroke:#333,stroke-width:2px
 ```
