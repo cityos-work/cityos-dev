@@ -19,10 +19,10 @@ graph TD;
     CS-->CSC[City Space Content];
     CS-->CSI[City Space Interactions];
     CS-->CSP[City Space Participation];
-    CSC-->DR[Digital Rewards"];
+    CSC-->DR[Digital Rewards];
     CSI-->DR;
     CSP-->DR;
-    style CS fill:#6df,stroke:#333,stroke-width:2px
-    style CI fill:#fc9,stroke:#333,stroke-width:2px
+    style U fill:#6df,stroke:#333,stroke-width:2px
+    style CS fill:#fc9,stroke:#333,stroke-width:2px
     style DR fill:#f9f,stroke:#333,stroke-width:2px
 ```
