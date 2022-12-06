@@ -23,6 +23,6 @@ graph TD;
     CSI-->DR;
     CSP-->DR;
     style CS fill:#fc9,stroke:#333,stroke-width:2px
-    style CI fill:#f0f,stroke:#333,stroke-width:2px
+    style CI fill:#6df,stroke:#333,stroke-width:2px
     style DR fill:#f9f,stroke:#333,stroke-width:2px
 ```
