@@ -11,6 +11,8 @@ last_modified_date: 2022-12-04 10:40
 
 ----------------
 
+## City Space interactive flow
+
 ```mermaid
 graph TD;
     CS("City Space")-->CI["Check-in"];
@@ -20,5 +22,5 @@ graph TD;
     CSC-->DR["Digital Rewards"];
     CSI-->DR;
     CSP-->DR;
-    style CS fill:#f9f,stroke:#333,stroke-width:2px,font-weight:bold
+    style CS fill:#f9f,stroke:#333,stroke-width:2px
 ```
