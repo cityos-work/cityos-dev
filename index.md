@@ -16,8 +16,8 @@ last_modified_date: 2022-11-17 10:40
 
 ----------------
 
-The **CityOS** provides digital tools   
-for modern communities to build their own     
+The **CityOS** provides modern communities     
+with digital tools, so they can build their own     
 **participatory and rewarding framework**   
 by creating digital/virtual ecosystems   
 for their social interactions and digital assets.
