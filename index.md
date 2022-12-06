@@ -23,7 +23,7 @@ by creating digital/virtual ecosystems
 for their social interactions and digital assets.
 
 
-CityOS is a **token-based** framework, that allows the community to **reward their community members** for their participation.
+CityOS is a **token-based** framework, that allows the community to **reward their community members** for their participation and interactions.
 
 It is a modular system that can be used to build a new digital platform or to extend an existing one.
 
