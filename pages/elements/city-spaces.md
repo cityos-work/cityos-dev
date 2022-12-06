@@ -13,8 +13,8 @@ last_modified_date: 2022-12-04 10:40
 
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
+    A ["City Space"]-->B ["Check-in"];
+    B-->C;
     B-->D;
     C-->D;
 ```
