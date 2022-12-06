@@ -15,7 +15,7 @@ last_modified_date: 2022-12-04 10:40
 
 ```mermaid
 graph TD;
-    U(Smart Citizen)-Check-In->CS[City Space];
+    U(Smart Citizen)-CheckIn->CS[City Space];
     CS-->CSC[City Space Content];
     CS-->CSI[City Space Interactions];
     CS-->CSP[City Space Participation];
