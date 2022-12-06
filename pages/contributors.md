@@ -32,6 +32,8 @@ Over the past 10+ years, as the managing director and co-founder of TheLIVE.agen
 
 The entire development work is based on the research and conceptualization work done within the **[Digital City Institute]** think tank, a non-profit organization that aims to promote the development of the digital society and the digital economy. 
 
+[Academic Supervisory Board]    
+[Professional Supervisory Board]
 
 ## Development Company
 
@@ -46,3 +48,6 @@ The commercial activity of the project is coordinated by New Stage Technology sr
 [UR.CITY]: https://ur.city "UR.CITY"
 [Clement Nicolaescu]: https://www.linkedin.com/in/clementnicolaescu/
 [Digital City Institute]: https://digital.city.institute "Digital City Institute"
+
+[Academic Supervisory Board]: https://digital.city.institute/academic-supervisory-board "Academic Supervisory Board"    
+[Professional Supervisory Board]: https://digital.city.institute/professional-supervisory-board "Professional Supervisory Board"

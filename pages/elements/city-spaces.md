@@ -14,7 +14,7 @@ last_modified_date: 2022-12-04 10:40
 ```mermaid
 graph TD;
     A["City Space"]-->B["Check-in"];
-    B-->C;
-    B-->D;
-    C-->D;
+    B-->C["City Space Content"];
+    B-->D["City Space Interactions"];
+    B-->E["City Space Participation"];
 ```
