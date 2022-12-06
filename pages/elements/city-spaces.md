@@ -17,4 +17,7 @@ graph TD;
     B-->C["City Space Content"];
     B-->D["City Space Interactions"];
     B-->E["City Space Participation"];
+    C-->F["Digital Rewards"];
+    D-->F;
+    E-->F;
 ```
