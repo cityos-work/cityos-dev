@@ -37,12 +37,12 @@ graph TB;
     SPACE-->CONTENT[Content];
     SPACE-->PARTICIPATION[Participation];
     
-    INTERACTION-->ORDER[Order];
-    INTERACTION-->COMMAND[Command];
-    CONTENT-->INFO[Info];
-    CONTENT-->NEWS[News];
-    PARTICIPATION-->EVENT[Event];
-    PARTICIPATION-->PROJECT[Project];
+    INTERACTION-->ORDER([Order]);
+    INTERACTION-->COMMAND([Command]);
+    CONTENT-->INFO([Info]);
+    CONTENT-->NEWS([News]);
+    PARTICIPATION-->EVENT([Event]);
+    PARTICIPATION-->PROJECT([Project]);
     ORDER-->REWARD>Digital Rewards];
     COMMAND-->REWARD;
     INFO-->REWARD;
