@@ -31,7 +31,7 @@ graph TD;
 ## Extended City Space interactions flow
 
 ```mermaid
-graph TD;
+graph TB;
     U[\Smart Citizen - User/]-- Check-In -->CS((City Space));
     CS-->CSI[Interactions];
     CS-->CSC[Content];
