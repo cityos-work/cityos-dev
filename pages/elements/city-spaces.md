@@ -52,5 +52,5 @@ graph TB;
     
     style USER fill:#6df,stroke:#333,stroke-width:2px
     style SPACE fill:#fc9,stroke:#333,stroke-width:2px
-    style DR fill:#f9f,stroke:#333,stroke-width:2px
+    style REWARD fill:#f9f,stroke:#333,stroke-width:2px
 ```
