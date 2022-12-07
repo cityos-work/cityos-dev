@@ -40,9 +40,13 @@ graph TD;
     NEWS[News]-->CSC;
     
     CS-->CSP[Participation];
+    EVENT[Event]-->CSP;
+    PROJECT[Project]-->CSP;
+    
     INFO-->DR>Digital Rewards];
     NEWS-->DR;
-    CSP-->DR;
+    EVENT-->DR;
+    PROJECT-->DR;
     style U fill:#6df,stroke:#333,stroke-width:2px
     style CS fill:#fc9,stroke:#333,stroke-width:2px
     style DR fill:#f9f,stroke:#333,stroke-width:2px
