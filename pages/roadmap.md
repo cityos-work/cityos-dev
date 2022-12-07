@@ -25,9 +25,11 @@ last_modified_date: 2022-11-25 10:40
 
 
 
-- [ ] **The Prototype** (v0.0.1)
+- [ ] **The Prototypes** (PoCs) (v0.0.1)
 
-    _A prototype of the CityOS ecosystem for each layer._
+    _A proof of concept approach will be adopted for each main branch of features._
+
+    The PoCs are organized around the City Spaces functionalities.
 
 
 - [ ] **The MVP** (v0.1.0)
