@@ -34,10 +34,11 @@ graph TD;
 graph TB;
     U[\Smart Citizen - User/]-- Check-In -->CS((City Space));
     CS-->CSI[Interactions];
-    
     CS-->CSC[Content];
-
     CS-->CSP[Participation];
+    
+    ORDER[Order]-->CSI;
+    COMMAND[Command]-->CSI;
     INFO[Info]-->CSC;
     NEWS[News]-->CSC;
     EVENT[Event]-->CSP;
