@@ -28,7 +28,7 @@ last_modified_date: 2022-11-25 10:40
 
 - [ ] **The Prototypes** (PoCs) (v0.0.1)
 
-    _A proof of concept approach will be adopted for each main branch of features._
+    _A proof of concept approach is adopted for each main branch of features._
 
     The PoCs are organized around the City Spaces functionalities.
 
