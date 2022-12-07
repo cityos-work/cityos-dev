@@ -16,14 +16,14 @@ last_modified_date: 2022-11-17 10:40
 
 ----------------
 
-The **CityOS** is a set of technology tools   
-for modern communities to build their own     
-**participatory and rewarding framework**   
+The **CityOS** is a digital framework    
+for modern communities to build     
+**participatory and rewarding systems**   
 by creating digital/virtual ecosystems   
 for their social interactions and digital assets.
 
 
-CityOS is a **token-based** framework, that allows the community to **reward their community members** for their participation and interactions.
+CityOS is a **token-based** framework, that allows the community to **reward their community members** for participation and interactions.
 
 
 ## What is the difference between a `digital city` and a `virtual city`
