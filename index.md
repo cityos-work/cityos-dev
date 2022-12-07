@@ -12,7 +12,7 @@ last_modified_date: 2022-11-17 10:40
 >It is not complete and will be updated regularly.  
 >If you need to know more about this framework, please [Contact Us]
 
-## What is `CityOS`?
+# What is `CityOS`?
 
 ----------------
 
@@ -22,7 +22,7 @@ last_modified_date: 2022-11-17 10:40
 >CityOS is a **token-based framework**, that allows the community to **reward their members** for presence, participation and interactions.
 
 
-## What is `digital city` vs `virtual city`?
+# What is `digital city` vs `virtual city`?
 
 ------------------
 
