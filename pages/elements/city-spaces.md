@@ -38,11 +38,11 @@ graph TD;
     
     INFO[Info]-->CSC;
     NEWS[News]-->CSC;
-    INFO-->REWARD>Digital Rewards];
-    NEWS-->REWARD;
     CS-->CSP[Participation];
     EVENT[Event]-->CSP;
     PROJECT[Project]-->CSP;
+    INFO-->REWARD>Digital Rewards];
+    NEWS-->REWARD;
     EVENT-->REWARD;
     PROJECT-->REWARD;
     style U fill:#6df,stroke:#333,stroke-width:2px
