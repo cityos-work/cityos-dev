@@ -66,12 +66,6 @@ graph TB;
     NEWS-->REWARD;
     EVENT-->REWARD;
     PROJECT-->REWARD;
-    click ORDER /roadmap/poc/orders/
-    click COMMAND /roadmap/poc/commands/
-    click INFO /roadmap/poc/info/    
-    click NEWS /roadmap/poc/news/
-    click EVENT /roadmap/poc/events/        
-    click PROJECT /roadmap/poc/projects/
     style USER fill:#6df,stroke:#333,stroke-width:2px
     style SPACE fill:#fc9,stroke:#333,stroke-width:2px
     style ORDER fill:#CF5, stroke:#333,stroke-width:2px
