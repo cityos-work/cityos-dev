@@ -66,6 +66,12 @@ graph TB;
     NEWS-->REWARD;
     EVENT-->REWARD;
     PROJECT-->REWARD;
+    click ORDER "/roadmap/poc/orders/" "Click to see details about this PoC"
+    click COMMAND "/roadmap/poc/commands/" "Click to see details about this PoC"
+    click INFO "/roadmap/poc/info/" "Click to see details about this PoC"    
+    click NEWS "/roadmap/poc/news/" "Click to see details about this PoC"
+    click EVENT "/roadmap/poc/events/" "Click to see details about this PoC"        
+    click PROJECT "/roadmap/poc/projects/" "Click to see details about this PoC" 
     style USER fill:#6df,stroke:#333,stroke-width:2px
     style SPACE fill:#fc9,stroke:#333,stroke-width:2px
     style ORDER fill:#CF5, stroke:#333,stroke-width:2px
@@ -74,11 +80,5 @@ graph TB;
     style NEWS fill:#CF5, stroke:#333,stroke-width:2px
     style EVENT fill:#CF5, stroke:#333,stroke-width:2px
     style PROJECT fill:#CF5, stroke:#333,stroke-width:2px
-    style REWARD fill:#f9f,stroke:#333,stroke-width:2px
-    click ORDER "/roadmap/poc/orders/" "Click to see details about this PoC"
-    click COMMAND "/roadmap/poc/commands/" "Click to see details about this PoC"
-    click INFO "/roadmap/poc/info/" "Click to see details about this PoC"    
-    click NEWS "/roadmap/poc/news/" "Click to see details about this PoC"
-    click EVENT "/roadmap/poc/events/" "Click to see details about this PoC"        
-    click PROJECT "/roadmap/poc/projects/" "Click to see details about this PoC"    
+    style REWARD fill:#f9f,stroke:#333,stroke-width:2px   
 ```
