@@ -14,23 +14,6 @@ last_modified_date: 2022-12-04 10:40
 ## City Space interactions flow
 
 ```mermaid
-graph TD;
-    U[\Smart Citizen - User/]-- Check-In -->CS((City Space));
-    CS-->CSI[Interactions];
-    CS-->CSC[Content];
-    CS-->CSP[Participation];
-    CSI-->DR>Digital Rewards];
-    CSC-->DR;
-    CSP-->DR;
-    style U fill:#6df,stroke:#333,stroke-width:2px
-    style CS fill:#fc9,stroke:#333,stroke-width:2px
-    style DR fill:#f9f,stroke:#333,stroke-width:2px
-```
-
-
-## Extended City Space interactions flow
-
-```mermaid
 graph TB;
     USER[\Smart Citizen - User/]-- Check-In -->SPACE((City Space));
     SPACE-->INTERACTION[Interaction];
@@ -49,7 +32,6 @@ graph TB;
     NEWS-->REWARD;
     EVENT-->REWARD;
     PROJECT-->REWARD;
-    
     style USER fill:#6df,stroke:#333,stroke-width:2px
     style SPACE fill:#fc9,stroke:#333,stroke-width:2px
     style ORDER fill:#CF5, stroke:#333,stroke-width:2px
