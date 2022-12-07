@@ -26,3 +26,24 @@ graph TD;
     style CS fill:#fc9,stroke:#333,stroke-width:2px
     style DR fill:#f9f,stroke:#333,stroke-width:2px
 ```
+
+
+## Extended City Space interactions flow
+
+```mermaid
+graph TD;
+    U[\Smart Citizen - User/]-- Check-In -->CS((City Space));
+    CS-->CSI[Interactions];
+    CS-->CSC[Content];
+    
+    INFO[Info]-->CSC;
+    NEWS[News]-->CSC;
+    
+    CS-->CSP[Participation];
+    INFO-->DR>Digital Rewards];
+    NEWS-->DR;
+    CSP-->DR;
+    style U fill:#6df,stroke:#333,stroke-width:2px
+    style CS fill:#fc9,stroke:#333,stroke-width:2px
+    style DR fill:#f9f,stroke:#333,stroke-width:2px
+```
