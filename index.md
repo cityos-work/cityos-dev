@@ -28,7 +28,7 @@ last_modified_date: 2022-11-17 10:40
 
 ### Digital City
 
-Digital cities are detailed digital representations of real-world social interactions created to increase community participation.
+Digital cities are detailed digital representations of real-world social interactions created to facilitate community participation and collaboration.
 
 ### Virtual City
 
