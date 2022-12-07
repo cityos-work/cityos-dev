@@ -49,9 +49,4 @@ graph TB;
     NEWS-->REWARD;
     EVENT-->REWARD;
     PROJECT-->REWARD;
-    
-    
-    style U fill:#6df,stroke:#333,stroke-width:2px
-    style CS fill:#fc9,stroke:#333,stroke-width:2px
-    style DR fill:#f9f,stroke:#333,stroke-width:2px
 ```
