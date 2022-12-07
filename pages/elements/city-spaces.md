@@ -37,12 +37,12 @@ graph TB;
     CS-->CSC[Content];
     CS-->CSP[Participation];
     
-    ORDER[Order]-->CSI;
-    COMMAND[Command]-->CSI;
-    INFO[Info]-->CSC;
-    NEWS[News]-->CSC;
-    EVENT[Event]-->CSP;
-    PROJECT[Project]-->CSP;
+    CSI-->ORDER[Order];
+    CSI-->COMMAND[Command];
+    CSC-->INFO[Info];
+    CSC-->NEWS[News];
+    CSP-->EVENT[Event];
+    CSP-->PROJECT[Project];
     ORDER-->REWARD>Digital Rewards];
     COMMAND-->REWARD;
     INFO-->REWARD;
