@@ -32,21 +32,25 @@ graph TD;
 
 ```mermaid
 graph TB;
-    U[\Smart Citizen - User/]-- Check-In -->CS((City Space));
-    CS-->CSI[Interactions];
-    CS-->CSC[Content];
-    CS-->CSP[Participation];
+    USER[\Smart Citizen - User/]-- Check-In -->SPACE((City Space));
+    SPACE-->INTERACTION[Interaction];
+    SPACE-->CONTENT[Content];
+    SPACE-->PARTICIPATION[Participation];
     
-    CSI-->ORDER[Order];
-    CSI-->COMMAND[Command];
-    CSC-->INFO[Info];
-    CSC-->NEWS[News];
-    CSP-->EVENT[Event];
-    CSP-->PROJECT[Project];
+    INTERACTION-->ORDER[Order];
+    INTERACTION-->COMMAND[Command];
+    CONTENT-->INFO[Info];
+    CONTENT-->NEWS[News];
+    PARTICIPATION-->EVENT[Event];
+    PARTICIPATION-->PROJECT[Project];
     ORDER-->REWARD>Digital Rewards];
     COMMAND-->REWARD;
     INFO-->REWARD;
     NEWS-->REWARD;
     EVENT-->REWARD;
     PROJECT-->REWARD;
+    
+    style USER fill:#6df,stroke:#333,stroke-width:2px
+    style SPACE fill:#fc9,stroke:#333,stroke-width:2px
+    style DR fill:#f9f,stroke:#333,stroke-width:2px
 ```
