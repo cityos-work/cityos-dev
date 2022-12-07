@@ -66,12 +66,12 @@ graph TB;
     NEWS-->REWARD;
     EVENT-->REWARD;
     PROJECT-->REWARD;
-    click ORDER "/roadmap/poc/orders/" "Click to see details about this PoC"
-    click COMMAND "/roadmap/poc/commands/" "Click to see details about this PoC"
-    click INFO "/roadmap/poc/info/" "Click to see details about this PoC"    
-    click NEWS "/roadmap/poc/news/" "Click to see details about this PoC"
-    click EVENT "/roadmap/poc/events/" "Click to see details about this PoC"        
-    click PROJECT "/roadmap/poc/projects/" "Click to see details about this PoC" 
+    click ORDER "/roadmap/poc/orders/"
+    click COMMAND "/roadmap/poc/commands/"
+    click INFO "/roadmap/poc/info/"    
+    click NEWS "/roadmap/poc/news/"
+    click EVENT "/roadmap/poc/events/"        
+    click PROJECT "/roadmap/poc/projects/"
     style USER fill:#6df,stroke:#333,stroke-width:2px
     style SPACE fill:#fc9,stroke:#333,stroke-width:2px
     style ORDER fill:#CF5, stroke:#333,stroke-width:2px
