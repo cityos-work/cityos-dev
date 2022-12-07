@@ -52,5 +52,11 @@ graph TB;
     
     style USER fill:#6df,stroke:#333,stroke-width:2px
     style SPACE fill:#fc9,stroke:#333,stroke-width:2px
+    style ORDER fill:#CF5, stroke:#333,stroke-width:2px
+    style COMMAND fill:#CF5, stroke:#333,stroke-width:2px
+    style INFO fill:#CF5, stroke:#333,stroke-width:2px
+    style NEWS fill:#CF5, stroke:#333,stroke-width:2px
+    style EVENT fill:#CF5, stroke:#333,stroke-width:2px
+    style PROJECT fill:#CF5, stroke:#333,stroke-width:2px
     style REWARD fill:#f9f,stroke:#333,stroke-width:2px
 ```
