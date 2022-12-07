@@ -34,17 +34,20 @@ graph TD;
 graph TB;
     U[\Smart Citizen - User/]-- Check-In -->CS((City Space));
     CS-->CSI[Interactions];
-    CS-->CSC[Content];
     
+    CS-->CSC[Content];
+
+    CS-->CSP[Participation];
     INFO[Info]-->CSC;
     NEWS[News]-->CSC;
-    CS-->CSP[Participation];
     EVENT[Event]-->CSP;
     PROJECT[Project]-->CSP;
     INFO-->REWARD>Digital Rewards];
     NEWS-->REWARD;
     EVENT-->REWARD;
     PROJECT-->REWARD;
+    
+    
     style U fill:#6df,stroke:#333,stroke-width:2px
     style CS fill:#fc9,stroke:#333,stroke-width:2px
     style DR fill:#f9f,stroke:#333,stroke-width:2px
