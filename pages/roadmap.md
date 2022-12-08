@@ -15,6 +15,8 @@ last_modified_date: 2022-11-25 10:40
 
     _The basic framework for the CityOS ecosystem including the common elements for both layers, digital & virtual._
 
+    No particular order (yet).
+
     - [ ] _User Management_
     - [ ] _Tokens Management_
     - [ ] _Organizations Management_
