@@ -87,7 +87,7 @@ graph TB;
     CONTENT-->INFO([Info]);
     CONTENT-->NEWS([News]);
     COMMAND-->ORDER([Order]);
-    EVENT-->REWARDFRAMEWORK>Digital Rewards Framework];
+    EVENT-->REWARDFRAMEWORK[Digital Rewards Framework];
     INFO-->REWARDFRAMEWORK;
     NEWS-->REWARDFRAMEWORK;
     ORDER-->REWARDFRAMEWORK;
