@@ -91,7 +91,7 @@ graph TB;
     INFO-->REWARDFRAMEWORK;
     NEWS-->REWARDFRAMEWORK;
     ORDER-->REWARDFRAMEWORK;
-    REWARD-- Rewarding -->REWARDEDUSER[/Smart Citizen - User\];
+    REWARDFRAMEWORK-- Rewarding -->REWARDEDUSER[/Smart Citizen - User\];
     style USER fill:#6df,stroke:#333,stroke-width:2px
     style REWARDEDUSER fill:#6df,stroke:#333,stroke-width:2px
     style SPACE fill:#fc9,stroke:#333,stroke-width:2px
