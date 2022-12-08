@@ -91,6 +91,7 @@ graph TB;
     INFO-->REWARD;
     NEWS-->REWARD;
     EVENT-->REWARD;
+    REWARD-- Rewarding -->USER;
     style USER fill:#6df,stroke:#333,stroke-width:2px
     style SPACE fill:#fc9,stroke:#333,stroke-width:2px
     style ORDER fill:#CF5, stroke:#333,stroke-width:2px
