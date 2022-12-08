@@ -35,7 +35,9 @@ last_modified_date: 2022-11-25 10:40
 
     _A proof of concept approach is adopted for each main branch of features._
 
-    The PoCs are organized around the City Spaces functionalities.
+  - [ ] _Events PoC_
+  - [ ] _Content PoC_
+  - [ ] _Command PoC_
 
 
 - [ ] **The MVP** (v0.1.0)
