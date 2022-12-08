@@ -92,7 +92,8 @@ graph TB;
     SPACE-- Patch Interactions -->PARTICIPATION[Participation];
     
     SEND-->ORDER([Order]);
-  
+    SEND-->EVENT([Event]);
+    RECEIVE->EVENT;
     RECEIVE-->INFO([Info]);
     RECEIVE-->NEWS([News]);
     PARTICIPATION-->PROJECT([Project]);
@@ -105,7 +106,6 @@ graph TB;
     style USER fill:#6df,stroke:#333,stroke-width:2px
     style SPACE fill:#fc9,stroke:#333,stroke-width:2px
     style ORDER fill:#CF5, stroke:#333,stroke-width:2px
-    style COM fill:#CF5, stroke:#333,stroke-width:2px
     style INFO fill:#CF5, stroke:#333,stroke-width:2px
     style NEWS fill:#CF5, stroke:#333,stroke-width:2px
     style EVENT fill:#CF5, stroke:#333,stroke-width:2px
