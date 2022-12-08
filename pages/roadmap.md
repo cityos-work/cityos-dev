@@ -49,6 +49,8 @@ last_modified_date: 2022-11-25 10:40
 
     _The minimum viable product for the CityOS ecosystem for each layer._
 
+  - [ ] _Digital City Layer_
+  - [ ] _Virtual City Layer_
 
 - [ ] **V1**
     
