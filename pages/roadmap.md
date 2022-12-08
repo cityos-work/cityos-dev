@@ -53,7 +53,6 @@ graph TB;
     SPACE-->INTERACTION[Interaction];
     SPACE-->CONTENT[Content];
     SPACE-->PARTICIPATION[Participation];
-    
     INTERACTION-->ORDER([Order]);
     INTERACTION-->COMMAND([Command]);
     CONTENT-->INFO([Info]);
@@ -74,5 +73,29 @@ graph TB;
     style NEWS fill:#CF5, stroke:#333,stroke-width:2px
     style EVENT fill:#CF5, stroke:#333,stroke-width:2px
     style PROJECT fill:#CF5, stroke:#333,stroke-width:2px
+    style REWARD fill:#f9f,stroke:#333,stroke-width:2px   
+```
+.............................
+
+```mermaid
+graph TB;
+    USER[\Smart Citizen - User/]-- Check-In -->SPACE((City Space));
+    SPACE-->COMMAND[Command];
+    SPACE-->CONTENT[Content];
+    SPACE-->PARTICIPATION[Participation];
+    COMMAND-->ORDER([Order]);
+    CONTENT-->INFO([Info]);
+    CONTENT-->NEWS([News]);
+    PARTICIPATION-->EVENT([Event]);
+    ORDER-->REWARD>Digital Rewards];
+    INFO-->REWARD;
+    NEWS-->REWARD;
+    EVENT-->REWARD;
+    style USER fill:#6df,stroke:#333,stroke-width:2px
+    style SPACE fill:#fc9,stroke:#333,stroke-width:2px
+    style ORDER fill:#CF5, stroke:#333,stroke-width:2px
+    style INFO fill:#CF5, stroke:#333,stroke-width:2px
+    style NEWS fill:#CF5, stroke:#333,stroke-width:2px
+    style EVENT fill:#CF5, stroke:#333,stroke-width:2px
     style REWARD fill:#f9f,stroke:#333,stroke-width:2px   
 ```
