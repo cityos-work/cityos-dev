@@ -68,7 +68,7 @@ graph TB;
     SPACE-->CONTENT[Content Framework];
     SPACE-->COMMAND[Command Framework];
     PARTICIPATION-->EVENT([Event]);
-    CONTENT-->INFO([Info]);
+    CONTENT-->INFO([Spinfo]);
     CONTENT-->NEWS([News]);
     COMMAND-->ORDER([Order]);
     EVENT-->REWARDFRAMEWORK[Digital Rewards Framework];
