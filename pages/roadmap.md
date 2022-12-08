@@ -50,18 +50,18 @@ last_modified_date: 2022-11-25 10:40
 ```mermaid
 graph TB;
     USER[\Smart Citizen - User/]-- Check-In -->SPACE((City Space));
-    SPACE-- Interactions -->PUT[PUT];
-    SPACE-- Interactions -->GET[GET];
-    SPACE-- Interactions -->PATCH[PATCH];
+    SPACE-- Put Interactions -->COMMAD[Command];
+    SPACE-- Put Interactions -->CONTENT[Content];
+    SPACE-- Put Interactions -->PARTICIPATION[Participation];
     
-    PUT-->ORDER([Order]);
-    PUT-->COMMAND([Command]);
-    GET-->INFO([Info]);
-    GET-->NEWS([News]);
-    PATCH-->EVENT([Event]);
-    PATCH-->PROJECT([Project]);
+    COMMAND-->ORDER([Order]);
+    COMMAND-->COM([Command]);
+    CONTENT-->INFO([Info]);
+    CONTENT-->NEWS([News]);
+    PARTICIPATION-->EVENT([Event]);
+    PARTICIPATION-->PROJECT([Project]);
     ORDER-->REWARD>Digital Rewards];
-    COMMAND-->REWARD;
+    COM-->REWARD;
     INFO-->REWARD;
     NEWS-->REWARD;
     EVENT-->REWARD;
@@ -69,7 +69,7 @@ graph TB;
     style USER fill:#6df,stroke:#333,stroke-width:2px
     style SPACE fill:#fc9,stroke:#333,stroke-width:2px
     style ORDER fill:#CF5, stroke:#333,stroke-width:2px
-    style COMMAND fill:#CF5, stroke:#333,stroke-width:2px
+    style COM fill:#CF5, stroke:#333,stroke-width:2px
     style INFO fill:#CF5, stroke:#333,stroke-width:2px
     style NEWS fill:#CF5, stroke:#333,stroke-width:2px
     style EVENT fill:#CF5, stroke:#333,stroke-width:2px
