@@ -1,13 +1,13 @@
 ---
-title: City Space Orders
+title: Participation Hub
 layout: page
 nav_order: 1
 parent: Roadmap
-permalink: /roadmap/poc/orders/
+permalink: /roadmap/poc/participation-hub/
 last_modified_date: 2022-11-25 10:40
 ---
 
-# City Space Orders (PoC)
+# Participation Hub - events - (PoC)
 
 ----------------
 
