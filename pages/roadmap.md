@@ -50,18 +50,18 @@ last_modified_date: 2022-11-25 10:40
 ```mermaid
 graph TB;
     USER[\Smart Citizen - User/]-- Check-In -->SPACE((City Space));
-    SPACE-- Put Interactions -->COMMAND[Command];
-    SPACE-- Get Interactions -->CONTENT[Content];
-    SPACE-- Patch Interactions -->PARTICIPATION[Participation];
+    SPACE-->INTERACTION[Interaction];
+    SPACE-->CONTENT[Content];
+    SPACE-->PARTICIPATION[Participation];
     
-    COMMAND-->ORDER([Order]);
-    COMMAND-->COM([Command]);
+    INTERACTION-->ORDER([Order]);
+    INTERACTION-->COMMAND([Command]);
     CONTENT-->INFO([Info]);
     CONTENT-->NEWS([News]);
     PARTICIPATION-->EVENT([Event]);
     PARTICIPATION-->PROJECT([Project]);
     ORDER-->REWARD>Digital Rewards];
-    COM-->REWARD;
+    COMMAND-->REWARD;
     INFO-->REWARD;
     NEWS-->REWARD;
     EVENT-->REWARD;
@@ -69,41 +69,7 @@ graph TB;
     style USER fill:#6df,stroke:#333,stroke-width:2px
     style SPACE fill:#fc9,stroke:#333,stroke-width:2px
     style ORDER fill:#CF5, stroke:#333,stroke-width:2px
-    style COM fill:#CF5, stroke:#333,stroke-width:2px
-    style INFO fill:#CF5, stroke:#333,stroke-width:2px
-    style NEWS fill:#CF5, stroke:#333,stroke-width:2px
-    style EVENT fill:#CF5, stroke:#333,stroke-width:2px
-    style PROJECT fill:#CF5, stroke:#333,stroke-width:2px
-    style REWARD fill:#f9f,stroke:#333,stroke-width:2px   
-```
-
-
-
-
-# F
-
-----------------
-
-```mermaid
-graph TB;
-    USER[\Smart Citizen - User/]-- Check-In -->SPACE((City Space));
-    SPACE-- Put Interactions -->SEND[Send];
-    SPACE-- Get Interactions -->RECEIVE[Receive];
-    SPACE-- Patch Interactions -->PARTICIPATION[Participation];
-    SEND-->ORDER([Order]);
-    SEND-->EVENT([Event]);
-    RECEIVE-->EVENT;
-    RECEIVE-->INFO([Info]);
-    RECEIVE-->NEWS([News]);
-    PARTICIPATION-->PROJECT([Project]);
-    ORDER-->REWARD>Digital Rewards];
-    INFO-->REWARD;
-    NEWS-->REWARD;
-    EVENT-->REWARD;
-    PROJECT-->REWARD;
-    style USER fill:#6df,stroke:#333,stroke-width:2px
-    style SPACE fill:#fc9,stroke:#333,stroke-width:2px
-    style ORDER fill:#CF5, stroke:#333,stroke-width:2px
+    style COMMAND fill:#CF5, stroke:#333,stroke-width:2px
     style INFO fill:#CF5, stroke:#333,stroke-width:2px
     style NEWS fill:#CF5, stroke:#333,stroke-width:2px
     style EVENT fill:#CF5, stroke:#333,stroke-width:2px
