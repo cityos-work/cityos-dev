@@ -7,7 +7,7 @@ permalink: /roadmap/
 last_modified_date: 2022-11-25 10:40
 ---
 
-# Framework General Roadmap
+# General Roadmap
 
 ----------------
 
@@ -36,8 +36,9 @@ last_modified_date: 2022-11-25 10:40
     _A proof of concept approach is adopted for each main branch of features._
 
   - [ ] _Events PoC_
-  - [ ] _Content PoC_
-  - [ ] _Command PoC_
+  - [ ] _Orders PoC_
+  - [ ] _Info PoC_
+  - [ ] _News PoC_
 
 
 - [ ] **The MVP** (v0.1.0)
