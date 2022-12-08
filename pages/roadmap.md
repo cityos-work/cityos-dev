@@ -90,15 +90,13 @@ graph TB;
     SPACE-- Put Interactions -->SEND[Send];
     SPACE-- Get Interactions -->RECEIVE[Receive];
     SPACE-- Patch Interactions -->PARTICIPATION[Participation];
-    
     SEND-->ORDER([Order]);
     SEND-->EVENT([Event]);
-    RECEIVE->EVENT;
+    RECEIVE-->EVENT;
     RECEIVE-->INFO([Info]);
     RECEIVE-->NEWS([News]);
     PARTICIPATION-->PROJECT([Project]);
     ORDER-->REWARD>Digital Rewards];
-    COM-->REWARD;
     INFO-->REWARD;
     NEWS-->REWARD;
     EVENT-->REWARD;
