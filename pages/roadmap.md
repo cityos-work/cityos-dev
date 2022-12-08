@@ -80,17 +80,17 @@ graph TB;
 ```mermaid
 graph TB;
     USER[\Smart Citizen - User/]-- Check-In -->SPACE((City Space));
-    SPACE-->PARTICIPATION[Participation];
-    SPACE-->CONTENT[Content];
-    SPACE-->COMMAND[Command];
+    SPACE-->PARTICIPATION[Participation Framework];
+    SPACE-->CONTENT[Content Framework];
+    SPACE-->COMMAND[Command Framework];
     PARTICIPATION-->EVENT([Event]);
     CONTENT-->INFO([Info]);
     CONTENT-->NEWS([News]);
     COMMAND-->ORDER([Order]);
-    EVENT-->REWARD;
-    INFO-->REWARD;
-    NEWS-->REWARD;
-    ORDER-->REWARD>Digital Rewards Framework];
+    EVENT-->REWARDFRAMEWORK>Digital Rewards Framework];
+    INFO-->REWARDFRAMEWORK;
+    NEWS-->REWARDFRAMEWORK;
+    ORDER-->REWARDFRAMEWORK;
     REWARD-- Rewarding -->REWARDEDUSER[/Smart Citizen - User\];
     style USER fill:#6df,stroke:#333,stroke-width:2px
     style REWARDEDUSER fill:#6df,stroke:#333,stroke-width:2px
@@ -98,6 +98,5 @@ graph TB;
     style ORDER fill:#CF5, stroke:#333,stroke-width:2px
     style INFO fill:#CF5, stroke:#333,stroke-width:2px
     style NEWS fill:#CF5, stroke:#333,stroke-width:2px
-    style EVENT fill:#CF5, stroke:#333,stroke-width:2px
-    style REWARD fill:#f9f,stroke:#333,stroke-width:2px   
+    style EVENT fill:#CF5, stroke:#333,stroke-width:2px 
 ```
