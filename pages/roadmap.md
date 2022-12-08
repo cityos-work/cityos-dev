@@ -50,9 +50,9 @@ last_modified_date: 2022-11-25 10:40
 ```mermaid
 graph TB;
     USER[\Smart Citizen - User/]-- Check-In -->SPACE((City Space));
-    SPACE-- Put Interactions -->COMMAD[Command];
-    SPACE-- Put Interactions -->CONTENT[Content];
-    SPACE-- Put Interactions -->PARTICIPATION[Participation];
+    SPACE-- Put Interactions -->COMMAND[Command];
+    SPACE-- Get Interactions -->CONTENT[Content];
+    SPACE-- Patch Interactions -->PARTICIPATION[Participation];
     
     COMMAND-->ORDER([Order]);
     COMMAND-->COM([Command]);
