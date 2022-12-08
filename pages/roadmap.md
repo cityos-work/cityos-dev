@@ -39,10 +39,10 @@ last_modified_date: 2022-11-25 10:40
     
     No particular order (yet).
 
-  - [ ] _Events PoC_
-  - [ ] _Orders PoC_
-  - [ ] _Info PoC_
-  - [ ] _News PoC_
+  - [ ] _Participation Hub (events) PoC_
+  - [ ] _Orders Desk PoC_
+  - [ ] _Info Desk PoC_
+  - [ ] _News Desk PoC_
 
 
 - [ ] **The MVP** (v0.1.0)
