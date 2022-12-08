@@ -87,12 +87,13 @@ graph TB;
     CONTENT-->INFO([Info]);
     CONTENT-->NEWS([News]);
     PARTICIPATION-->EVENT([Event]);
-    ORDER-->REWARD>Digital Rewards];
+    ORDER-->REWARD>Digital Rewards Framework];
     INFO-->REWARD;
     NEWS-->REWARD;
     EVENT-->REWARD;
-    REWARD-- Rewarding -->USER;
+    REWARD-- Rewarding -->REWARDEDUSER[/Smart Citizen - User\];
     style USER fill:#6df,stroke:#333,stroke-width:2px
+    style REWARDEDUSER fill:#6df,stroke:#333,stroke-width:2px
     style SPACE fill:#fc9,stroke:#333,stroke-width:2px
     style ORDER fill:#CF5, stroke:#333,stroke-width:2px
     style INFO fill:#CF5, stroke:#333,stroke-width:2px
