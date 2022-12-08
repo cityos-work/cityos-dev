@@ -19,10 +19,15 @@ last_modified_date: 2022-11-25 10:40
     - [ ] _Tokens Management_
     - [ ] _Organizations Management_
     - [ ] _City Spaces Management_
+      - [ ] _Check-in Interactions_
+      - [ ] _Participation Framework_
+      - [ ] _Content Framework_
+      - [ ] _Command Framework_
+    - [ ] _Digital Rewards Framework_
     - [ ] _Intelligent Agents Management_
     - [ ] _Teams Management_
+    - [ ] _Project Management_
     - [ ] _Context Management_
-    - [ ] _Digital Rewards Framework_
 
 
 
@@ -50,36 +55,6 @@ last_modified_date: 2022-11-25 10:40
 ```mermaid
 graph TB;
     USER[\Smart Citizen - User/]-- Check-In -->SPACE((City Space));
-    SPACE-->INTERACTION[Interaction];
-    SPACE-->CONTENT[Content];
-    SPACE-->PARTICIPATION[Participation];
-    INTERACTION-->ORDER([Order]);
-    INTERACTION-->COMMAND([Command]);
-    CONTENT-->INFO([Info]);
-    CONTENT-->NEWS([News]);
-    PARTICIPATION-->EVENT([Event]);
-    PARTICIPATION-->PROJECT([Project]);
-    ORDER-->REWARD>Digital Rewards];
-    COMMAND-->REWARD;
-    INFO-->REWARD;
-    NEWS-->REWARD;
-    EVENT-->REWARD;
-    PROJECT-->REWARD;
-    style USER fill:#6df,stroke:#333,stroke-width:2px
-    style SPACE fill:#fc9,stroke:#333,stroke-width:2px
-    style ORDER fill:#CF5, stroke:#333,stroke-width:2px
-    style COMMAND fill:#CF5, stroke:#333,stroke-width:2px
-    style INFO fill:#CF5, stroke:#333,stroke-width:2px
-    style NEWS fill:#CF5, stroke:#333,stroke-width:2px
-    style EVENT fill:#CF5, stroke:#333,stroke-width:2px
-    style PROJECT fill:#CF5, stroke:#333,stroke-width:2px
-    style REWARD fill:#f9f,stroke:#333,stroke-width:2px   
-```
-.............................
-
-```mermaid
-graph TB;
-    USER[\Smart Citizen - User/]-- Check-In -->SPACE((City Space));
     SPACE-->PARTICIPATION[Participation Framework];
     SPACE-->CONTENT[Content Framework];
     SPACE-->COMMAND[Command Framework];
@@ -91,7 +66,7 @@ graph TB;
     INFO-->REWARDFRAMEWORK;
     NEWS-->REWARDFRAMEWORK;
     ORDER-->REWARDFRAMEWORK;
-    REWARDFRAMEWORK-- Rewarding -->REWARDEDUSER[/Smart Citizen - User\];
+    REWARDFRAMEWORK-- Reward -->REWARDEDUSER[/Smart Citizen - User\];
     style USER fill:#6df,stroke:#333,stroke-width:2px
     style REWARDEDUSER fill:#6df,stroke:#333,stroke-width:2px
     style SPACE fill:#fc9,stroke:#333,stroke-width:2px
