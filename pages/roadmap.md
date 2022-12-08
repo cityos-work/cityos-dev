@@ -70,7 +70,7 @@ graph TB;
     PARTICIPATION-->EVENT([Event]);
     CONTENT-->INFO([Info Desk]);
     CONTENT-->NEWS([News Desk]);
-    COMMAND-->ORDER([Order]);
+    COMMAND-->ORDER([Order Desk]);
     EVENT-->REWARDFRAMEWORK[Digital Rewards Framework];
     INFO-->REWARDFRAMEWORK;
     NEWS-->REWARDFRAMEWORK;
