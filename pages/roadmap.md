@@ -52,7 +52,7 @@ last_modified_date: 2022-12-09 10:40
   - [ ] _Digital City Layer_
   - [ ] _Virtual City Layer_
 
-- [ ] **V1.0.0**
+- [ ] **Beta Version** (V1.0.0)
     
     _The first version of the CityOS ecosystem for each layer._
 
