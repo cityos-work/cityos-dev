@@ -27,7 +27,7 @@ last_modified_date: 2022-11-17 10:40
 
 ### Digital City
 
-We use the **Digital City** term to describe the digital infrastructure that underlies and supports the interactions and activities taking place in urban environments.
+The **Digital City** term describe the digital infrastructure that underlies and supports the interactions and activities taking place in urban environments.
 
 ### Virtual City
 
