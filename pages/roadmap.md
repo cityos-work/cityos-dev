@@ -67,11 +67,11 @@ graph TB;
     SPACE-->PARTICIPATION[Participation Framework];
     SPACE-->CONTENT[Content Framework];
     SPACE-->COMMAND[Command Framework];
-    PARTICIPATION-->HUB([Participation Hub]);
+    PARTICIPATION-->VENUE([Participation Hub]);
     CONTENT-->INFO([Info Desk]);
     CONTENT-->NEWS([News Desk]);
     COMMAND-->ORDER([Order Desk]);
-    HUB-->REWARDFRAMEWORK[Digital Rewards Framework];
+    VENUE-->REWARDFRAMEWORK[Digital Rewards Framework];
     INFO-->REWARDFRAMEWORK;
     NEWS-->REWARDFRAMEWORK;
     ORDER-->REWARDFRAMEWORK;
@@ -82,5 +82,5 @@ graph TB;
     style ORDER fill:#CF5, stroke:#333,stroke-width:2px
     style INFO fill:#CF5, stroke:#333,stroke-width:2px
     style NEWS fill:#CF5, stroke:#333,stroke-width:2px
-    style HUB fill:#CF5, stroke:#333,stroke-width:2px 
+    style VENUE fill:#CF5, stroke:#333,stroke-width:2px 
 ```
