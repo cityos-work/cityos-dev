@@ -57,7 +57,7 @@ last_modified_date: 2022-12-09 10:40
     _The first version of the CityOS ecosystem for each layer._
 
 
-# Frameworks & Interactions Flowchart
+# Ecosystem Flowchart
 
 ----------------
 
