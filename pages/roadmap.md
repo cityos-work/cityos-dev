@@ -39,7 +39,7 @@ last_modified_date: 2022-12-09 10:40
     
     No particular order (yet).
 
-  - [ ] _Participation Hub (events) PoC_
+  - [ ] _Venue PoC_
   - [ ] _Orders Desk PoC_
   - [ ] _Info Desk PoC_
   - [ ] _News Desk PoC_
@@ -67,7 +67,7 @@ graph TB;
     SPACE-->PARTICIPATION[Participation Framework];
     SPACE-->CONTENT[Content Framework];
     SPACE-->COMMAND[Command Framework];
-    PARTICIPATION-->VENUE([Participation Hub]);
+    PARTICIPATION-->VENUE([Venue]);
     CONTENT-->INFO([Info Desk]);
     CONTENT-->NEWS([News Desk]);
     COMMAND-->ORDER([Order Desk]);
