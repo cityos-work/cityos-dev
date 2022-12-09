@@ -27,7 +27,7 @@ last_modified_date: 2022-11-17 10:40
 
 ### Digital City
 
-We use the **Digital City** term to describe the digital infrastructure that underlies and supports the interactions and activities that take place in urban environments. It is a concept that is often used to describe the ways in which technology and data can be used to improve the functioning and quality of life in cities. This can include things like increased participation and social collaboration through the use of digital technologies and digital rewards.
+We use the **Digital City** term to describe the digital infrastructure that underlies and supports the interactions and activities taking place in urban environments.
 
 ### Virtual City
 
