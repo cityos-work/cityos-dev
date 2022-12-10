@@ -22,7 +22,7 @@ last_modified_date: 2022-11-17 10:40
 
 ----------------
 
->The **CityOS** is framework for **digital spaces** that enables modern communities to build **participatory and rewarding systems** for their **social interactions** and **digital assets**.
+>The **CityOS** is framework for **digital spaces** that enables **urban communities** to build **participatory and rewarding systems** for their **social interactions** and **digital assets**.
 
 
 >CityOS is a **token-based framework**, that allows the community to **reward their members** for presence, participation and interactions.
