@@ -33,8 +33,9 @@ The attendees and visitors are able to **check in** to the digital spaces and **
 
 ----------------
 
-Each digital space can have an **Info Desk**, an **Orders Desk**, and a **News Desk**.   
 The main component of a digital space is **the Venue**, where the attendees conduct their social interactions within the participatory and collaborative systems of the CityOS.    
+
+Each digital space can have an **Info Desk**, an **Orders Desk**, and a **News Desk**.
 
 The interactions within the Digital Space are **rewarded** with **digital tokens**.
 
