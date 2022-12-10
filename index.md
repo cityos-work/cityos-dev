@@ -22,6 +22,8 @@ last_modified_date: 2022-11-17 10:40
 {: .highlight }
 The **CityOS** is a framework that enables **urban communities and organizations** to build **digital spaces** for their **social interactions** and **digital assets**.
 
+It implements concepts and ideas elaborated by the [**Digital City Institute**](https://digital.city.institute){target=_blank}.
+
 CityOS features a **digital rewards framework** that uses tokens to reward community members for their presence, participation, and interactions.
 
 The attendees and visitors are able to **check in** to the digital spaces and **interact** with various entities or with other attendees.
