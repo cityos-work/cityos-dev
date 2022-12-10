@@ -26,9 +26,20 @@ CityOS features a **digital rewards framework** that uses tokens to reward commu
 
 The attendees and visitors are able to **check in** to the digital spaces and **interact** with various entities or with other attendees.
 
-## Components
+## The Reasons
 
 ----------------
+
+With the development of new technologies (IoT, AI, Blockchain, DLT, etc.), our social interactions become more complex and more and more **digital**. 
+So, we need to evolve from **"social media"** to **"social spaces"** and from "social networks" to "social ecosystems".
+
+**CityOS** enables the transition from **"social media"** to **"social spaces"**.
+
+## The Components
+
+----------------
+
+In the modern world, **social spaces are increasingly digital**, and they do not necessarily have to resemble physical spaces in appearance.
 
 The main component of a digital space is **the Venue**, where the attendees conduct their social interactions within the participatory and collaborative systems of the CityOS.    
 
@@ -39,7 +50,7 @@ The interactions within the Digital Space are **rewarded** with **digital tokens
 Within the Digital Space, the attendees can interact with the **Intelligent Agents** that are able to provide information, services, and products to the attendees, and they can be rewarded for their positive impact on the community.
 
 
-## Utility
+## The Utility
 
 ----------------
 
