@@ -29,13 +29,19 @@ CityOS features a **digital rewards framework** that uses tokens to reward commu
 
 The attendees and visitors are able to **check in** to the digital spaces and **interact** with various entities or with other attendees.
 
-&nbsp;
+## Components
+
+----------------
 
 Each digital space can have an **Info Desk**, an **Orders Desk**, and a **News Desk**.   
 The main component of a digital space is **the Venue**, where the attendees conduct their social interactions within the participatory and collaborative systems of the CityOS.    
 
 Within the Venue, the attendees can interact with the **Intelligent Agents** that are able to provide information, services, and products to the attendees.
 
+
+## Usage
+
+----------------
 
 #### Some examples on how **Digital Spaces** can be used:
 
@@ -48,10 +54,10 @@ Within the Venue, the attendees can interact with the **Intelligent Agents** tha
 
 #### Some examples on how **Venues** can be used:
 
-- Events (e.g. Conferences, Meetups, etc.)
-- Workshops (e.g. Workshops, Hackathons, etc.)
-- Project collaboration (e.g. Meetings, Workplace, etc.)
+- **Events** (e.g. Conferences, Meetups, Workshops, etc.)
+- **Project collaboration** (e.g. Meetings, Workplace, etc.)
 
+&nbsp;
 
 ## `digital city` vs `virtual city`
 
