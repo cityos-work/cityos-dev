@@ -27,11 +27,15 @@ The **CityOS** is a framework that enables **urban communities and organizations
 
 CityOS features a **digital rewards framework** that uses tokens to reward community members for their presence, participation, and interactions.
 
-The attendees and visitors are able to check in to the digital spaces and interact with various entities or with other attendees.
+The attendees and visitors are able to **check in** to the digital spaces and **interact** with various entities or with other attendees.
+
+&nbsp;
 
 Each digital space can have an **Info Desk**, an **Orders Desk**, and a **News Desk**.   
-The main component of a digital space is the **Venue**, where the attendees conduct their social interactions within the participatory and collaborative systems of the CityOS.    
+The main component of a digital space is **the Venue**, where the attendees conduct their social interactions within the participatory and collaborative systems of the CityOS.    
+
 Within the Venue, the attendees can interact with the **Intelligent Agents** that are able to provide information, services, and products to the attendees.
+
 
 #### Some examples on how **Digital Spaces** can be used:
 
