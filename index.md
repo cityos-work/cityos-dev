@@ -49,9 +49,9 @@ The main component of a digital space is **the Venue**, where the attendees cond
 
 Additionally, each digital space can have an **Info Desk**, an **Orders Desk**, and a **News Desk**.
 
-The interactions within the Digital Space are **rewarded** with **digital tokens**.
+The interactions within the Digital Space can be **rewarded** with **digital assets** for their positive impact on the community.
 
-The attendees can also interact with **Intelligent Agents** that are able to provide information, services, and products to the attendees, and they can be rewarded for their positive impact on the community.
+The attendees can also interact with **Intelligent Agents** that are able to provide information, services, and products to the attendees.
 
 
 ## The Utility
