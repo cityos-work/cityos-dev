@@ -39,7 +39,7 @@ The main component of a digital space is **the Venue**, where the attendees cond
 Within the Venue, the attendees can interact with the **Intelligent Agents** that are able to provide information, services, and products to the attendees.
 
 
-## Usage
+## Utility
 
 ----------------
 
