@@ -18,9 +18,6 @@ last_modified_date: 2022-11-17 10:40
 
 &nbsp;
 
-## What is `CityOS`?
-
-----------------
 
 {: .highlight }
 The **CityOS** is a framework that enables **urban communities and organizations** to build **digital spaces** for their **social interactions** and **digital assets**.
@@ -73,6 +70,6 @@ The **Digital City** term describe the digital infrastructure that underlies and
 
 #### Virtual City
 
-Virtual cities are simulated cities created in a virtual environment, often for entertainment or educational purposes.
+The **Virtual City** is a simulated ecosystem created in a virtual environment, often for entertainment or educational purposes.
 
 [Contact Us]: /pages/contact.html "Contact Us"
