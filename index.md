@@ -12,7 +12,11 @@ last_modified_date: 2022-11-17 10:40
 >It is not complete and will be updated regularly.  
 >If you need to know more about this framework, please [Contact Us]
 
-# What is `CityOS`?
+
+# Digital City Spaces
+
+
+## What is `CityOS`?
 
 ----------------
 
@@ -21,15 +25,15 @@ last_modified_date: 2022-11-17 10:40
 
 >CityOS is a **token-based framework**, that allows the community to **reward their members** for presence, participation and interactions.
 
-# What is `digital city` vs `virtual city`?
+## What is `digital city` vs `virtual city`?
 
 ------------------
 
-### Digital City
+#### Digital City
 
 The **Digital City** term describe the digital infrastructure that underlies and supports the interactions and activities taking place in urban environments.
 
-### Virtual City
+#### Virtual City
 
 Virtual cities are simulated cities created in a virtual environment, often for entertainment or educational purposes.
 
