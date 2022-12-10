@@ -27,7 +27,7 @@ The **CityOS** is a framework for **digital spaces** that enables **urban commun
 
 CityOS features a **digital rewards framework** that uses tokens to reward community members for their presence, participation, and interactions.
 
-## What is `digital city` vs `virtual city`?
+## `digital city` vs `virtual city`
 
 ------------------
 
