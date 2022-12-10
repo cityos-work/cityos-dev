@@ -42,8 +42,7 @@ So, we need to evolve from **"social media"** to **"social spaces"** and from "s
 
 ----------------
 
-Our **social spaces are increasingly digital**, and they do not necessarily have to resemble physical spaces in appearance.        
-We call them **Digital City Spaces**.
+As our **social spaces are increasingly digital**, it's only natural to call them **Digital City Spaces**, and they do not necessarily have to resemble physical spaces in appearance.        
 
 The main component of a digital space is **the Venue**, where the attendees conduct their social interactions within the participatory and collaborative systems of the CityOS.    
 
