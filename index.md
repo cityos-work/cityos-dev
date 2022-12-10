@@ -30,7 +30,7 @@ The attendees and visitors are able to **check in** to the digital spaces and **
 
 ----------------
 
-With the development of new technologies (IoT, AI, Blockchain, DLT, etc.), our social interactions become more complex and more and more **digital**. 
+With the development of new technologies (IoT, AI, Blockchain, DLT, etc.), our **social interactions** become more complex and more and more **digital**. 
 So, we need to evolve from **"social media"** to **"social spaces"** and from "social networks" to "social ecosystems".
 
 **CityOS** enables the transition from **"social media"** to **"social spaces"**.
@@ -39,7 +39,7 @@ So, we need to evolve from **"social media"** to **"social spaces"** and from "s
 
 ----------------
 
-In the modern world, **social spaces are increasingly digital**, and they do not necessarily have to resemble physical spaces in appearance.
+In the modern world, **social spaces are increasingly digital**, and they do not necessarily have to resemble physical spaces in appearance. This is why we call them **Digital Spaces**.
 
 The main component of a digital space is **the Venue**, where the attendees conduct their social interactions within the participatory and collaborative systems of the CityOS.    
 
