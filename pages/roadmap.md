@@ -39,10 +39,10 @@ last_modified_date: 2022-12-09 10:40
     
     No particular order (yet).
 
-  - [ ] _Venue PoC_
-  - [ ] _Orders Desk PoC_
+  - [ ] _Venue Actions PoC_
+    - [ ] _Orders Desk PoC_
   - [ ] _Info Desk PoC_
-  - [ ] _News Desk PoC_
+    - [ ] _News Desk PoC_
 
 
 - [ ] **The MVP** (v0.1.0)
@@ -66,21 +66,14 @@ graph TB;
     USER[\Smart Citizen - User/]-- Check-In -->SPACE((City Space));
     SPACE-->PARTICIPATION[Participation Framework];
     SPACE-->CONTENT[Content Framework];
-    SPACE-->COMMAND[Command Framework];
-    PARTICIPATION-->VENUE([Venue]);
+    PARTICIPATION-->ACTIONS([Venue Actions]);
     CONTENT-->INFO([Info Desk]);
-    CONTENT-->NEWS([News Desk]);
-    COMMAND-->ORDER([Order Desk]);
-    VENUE-->REWARDFRAMEWORK[Digital Rewards Framework];
+    ACTIONS-->REWARDFRAMEWORK[Digital Rewards Framework];
     INFO-->REWARDFRAMEWORK;
-    NEWS-->REWARDFRAMEWORK;
-    ORDER-->REWARDFRAMEWORK;
     REWARDFRAMEWORK-- Reward -->REWARDEDUSER[/Smart Citizen - User\];
     style USER fill:#6df,stroke:#333,stroke-width:2px
     style REWARDEDUSER fill:#6df,stroke:#333,stroke-width:2px
     style SPACE fill:#fc9,stroke:#333,stroke-width:2px
-    style ORDER fill:#CF5, stroke:#333,stroke-width:2px
     style INFO fill:#CF5, stroke:#333,stroke-width:2px
-    style NEWS fill:#CF5, stroke:#333,stroke-width:2px
-    style VENUE fill:#CF5, stroke:#333,stroke-width:2px 
+    style ACTIONS fill:#CF5, stroke:#333,stroke-width:2px 
 ```
