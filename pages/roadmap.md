@@ -69,10 +69,10 @@ graph TB;
     USER[\Smart Citizen - User/]-- Check-In -->SPACE((City Space));
     SPACE-->CONTENT[Content Framework];
     SPACE-->PARTICIPATION[Participation Framework];
-    PARTICIPATION-->ACTIONS([Venue Actions]);
     CONTENT-->INFO([Info Desk]);
-    ACTIONS-->REWARDFRAMEWORK[Digital Rewards Framework];
-    INFO-->REWARDFRAMEWORK;
+    PARTICIPATION-->ACTIONS([Venue Actions]);
+    INFO-->REWARDFRAMEWORK[Digital Rewards Framework];
+    ACTIONS-->REWARDFRAMEWORK;
     REWARDFRAMEWORK-- Reward -->REWARDEDUSER[/Smart Citizen - User\];
     style USER fill:#6df,stroke:#333,stroke-width:2px
     style REWARDEDUSER fill:#6df,stroke:#333,stroke-width:2px
