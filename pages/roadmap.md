@@ -39,7 +39,7 @@ last_modified_date: 2022-12-09 10:40
     
     No particular order (yet).
 
-  - [ ] _Venue Actions PoC_
+  - [ ] _Venue PoC_
     - [ ] _Idea Stream_ 
     - [ ] _Orders_
   - [ ] _Info Desk PoC_
