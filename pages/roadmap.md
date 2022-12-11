@@ -40,9 +40,12 @@ last_modified_date: 2022-12-09 10:40
     No particular order (yet).
 
   - [ ] _Venue Actions PoC_
-    - [ ] _Orders Desk PoC_
+    - [ ] _Idea Stream_ 
+    - [ ] _Orders_
   - [ ] _Info Desk PoC_
-    - [ ] _News Desk PoC_
+    - [ ] _Orientation_
+    - [ ] _Support_
+    - [ ] _News_
 
 
 - [ ] **The MVP** (v0.1.0)
@@ -64,8 +67,8 @@ last_modified_date: 2022-12-09 10:40
 ```mermaid
 graph TB;
     USER[\Smart Citizen - User/]-- Check-In -->SPACE((City Space));
-    SPACE-->PARTICIPATION[Participation Framework];
     SPACE-->CONTENT[Content Framework];
+    SPACE-->PARTICIPATION[Participation Framework];
     PARTICIPATION-->ACTIONS([Venue Actions]);
     CONTENT-->INFO([Info Desk]);
     ACTIONS-->REWARDFRAMEWORK[Digital Rewards Framework];
