@@ -7,6 +7,10 @@ permalink: /roadmap/
 last_modified_date: 2022-12-09 10:40
 ---
 
+{: .highlight }
+The 2023 roadmap is planned considering the previously announced [2023 Approach Summary](https://docs.IM.CITY/2023-approach){:target=_blank}.
+
+
 # General Roadmap
 
 ----------------
