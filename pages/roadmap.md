@@ -47,7 +47,7 @@ The 2023 roadmap is planned considering the previously announced [2023 Approach 
     These are the PoC Candidates in no particular order (yet).
 
   - [ ] _Digital Space Venue_
-    - [ ] _Decision-makers PoCC_ 
+    - [ ] _Community PoCC_ 
     - [ ] _Orders PoCC_
     - [ ] _Events PoCC_
   - [ ] _Digital Space Info Desk_
