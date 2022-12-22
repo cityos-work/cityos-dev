@@ -19,19 +19,22 @@ The 2023 roadmap is planned considering the previously announced [2023 Approach 
 
     _The basic framework for the CityOS ecosystem including the common elements for both layers, digital & virtual._
 
-    No particular order (yet).
+    Here are the potential main modules in no particular order (yet).
+    The order for the main modules development will be determined by the PoC candidates and their needs.    
+
 
     - [ ] _User Management_
     - [ ] _Tokens Management_
     - [ ] _Organizations Management_
     - [ ] _City Spaces Management_
       - [ ] _Check-in Interactions_
+      - [ ] _Idea Streams_
       - [ ] _Participation Framework_
       - [ ] _Content Framework_
       - [ ] _Command Framework_
     - [ ] _Digital Rewards Framework_
     - [ ] _Intelligent Agents Management_
-    - [ ] _Teams Management_
+    - [ ] _Groups Management_
     - [ ] _Project Management_
     - [ ] _Context Management_
 
