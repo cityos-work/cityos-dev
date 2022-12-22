@@ -44,16 +44,16 @@ The 2023 roadmap is planned considering the previously announced [2023 Approach 
 
     _A proof of concept approach is adopted for each main branch of features._
     
-    These are the PoC candidates in no particular order (yet).
+    These are the PoC Candidates in no particular order (yet).
 
   - [ ] _Digital Space Venue_
-    - [ ] _Decision-makers PoC_ 
-    - [ ] _Orders PoC_
-    - [ ] _Events PoC_
+    - [ ] _Decision-makers PoCC_ 
+    - [ ] _Orders PoCC_
+    - [ ] _Events PoCC_
   - [ ] _Digital Space Info Desk_
-    - [ ] _Orientation PoC_
-    - [ ] _Support PoC_
-    - [ ] _News PoC_
+    - [ ] _Orientation PoCC_
+    - [ ] _Support PoCC_
+    - [ ] _News PoCC_
 
 
 - [ ] **The MVP** (v0.1.0)
