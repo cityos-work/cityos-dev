@@ -21,7 +21,7 @@ last_modified_date: 2022-11-17 10:40
 
 Welcome to CityOS, an operating system for digital city states – a new form of independent cities. With CityOS, anyone will be able to create and manage their own digital city and manage their community.
 
-To get started, we recommend visiting IM.CITY, the Proof of Concept project for a digital city. Our online platform provides communities and organizations with a complete set of tools for conducting collective decision-making processes, including research, dialogue, debate, and voting. This module is called the Decision-Making Engine (DME).
+To get started, we recommend visiting IM.CITY, the Proof of Concept project for a digital city (under development). Our online platform provides communities and organizations with a complete set of tools for conducting collective decision-making processes, including research, dialogue, debate, and voting. This module is called the Decision-Making Engine (DME).
 
 Users can provide data and ideas as part of the decision-making process, and have the option to use Intelligent Agents (AI tools) to provide them with information or suggestions. These Intelligent Agents are powered by the OpenAI API, and can be accessed by spending a digital token called the Digital Intelligence Token ($DIT). Users can earn $DIT tokens through a Universal Basic Income (UBI) for Intelligent Agents, or purchase them from the platform or from other users.
 
