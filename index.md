@@ -19,6 +19,19 @@ last_modified_date: 2022-11-17 10:40
 &nbsp;
 
 
+Welcome to CityOS, an operating system for digital city states – a new form of independent cities. With CityOS, anyone will be able to create and manage their own digital city and manage their community.
+
+To get started, we recommend visiting IM.CITY, the Proof of Concept project for a digital city. Our online platform provides communities and organizations with a complete set of tools for conducting collective decision-making processes, including research, dialogue, debate, and voting. This module is called the Decision-Making Engine (DME).
+
+Users can provide data and ideas as part of the decision-making process, and have the option to use Intelligent Agents (AI tools) to provide them with information or suggestions. These Intelligent Agents are powered by the OpenAI API, and can be accessed by spending a digital token called the Digital Intelligence Token ($DIT). Users can earn $DIT tokens through a Universal Basic Income (UBI) for Intelligent Agents, or purchase them from the platform or from other users.
+
+In addition to the DME, our platform also includes a Digital Rewards Engine (DRE) for managing different types of digital rewards for users, including UBI and other mechanisms. The Digital City Token ($DCT) is the main token of the platform, and can be used to access features and services on the platform. Users can earn $DCT through a Universal Basic Income (UBI) or other rewards, purchase them, or transfer them to/from other users.
+
+IM.CITY also includes Digital Spaces where users can check in and participate. These Digital Spaces can be owned by individuals or organizations, and provide a place for communities to come together and collaborate. Users can create their own Digital Spaces or join existing ones, and can customize the privacy and accessibility settings to suit their needs. Within a Digital Space, users can use the tools provided by the DME to conduct collective decision-making processes, and can earn or spend Digital Intelligence Tokens ($DIT) and Digital City Tokens ($DCT) as part of the process. Digital Space Tokens ($DST) are used to determine the capacity of a Digital Space.
+
+We believe that CityOS and IM.CITY have the potential to revolutionize the way communities and organizations make decisions, and we invite you to join us on this journey as we build a better future together. Our project is still in the early stages, but we are excited about the potential it holds and we hope you will join us in shaping the future of digital city states.
+
+
 {: .highlight }
 **CityOS** is a framework that enables **urban communities and organizations** to build **digital spaces** for their **social interactions** and **digital assets**.
 
