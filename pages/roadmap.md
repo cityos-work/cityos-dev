@@ -18,7 +18,7 @@ The 2023 roadmap is planned considering the previously announced [2023 Approach 
 
 - [ ] **Install IM.CITY** as a Digital City Spaces platform
 - [ ] **Develop DME** (Decision-Making Engine)
-- [ ] **Install CityOS** and make it available to other digital city projects
+- [ ] **Install CityOS.world** and make it available to other digital city projects
 - [ ] **Develop DRE** (Digital Rewards Engine)
 
 
