@@ -12,14 +12,23 @@ The 2023 roadmap is planned considering the previously announced [2023 Approach 
 
 
 # General Roadmap
-
 ----------------
+
+## Milestones Roadmap 
+
+- [ ] **Install IM.CITY** as a **Digital City Space** platform
+- [ ] **Develop DME** (Decision-Making Engine)
+- [ ] **Install CityOS** and make it available to other digital city projects
+- [ ] **Develop DRE** (Digital Rewards Engine)
+
+
+## Roadmap elements
 
 - [ ] **The Base**
 
     _The basic framework for the CityOS ecosystem including the common elements for both layers, digital & virtual._
 
-    Here are the potential main modules in no particular order (yet).
+    Here are the potential main modules and elements in no particular order (yet).
     The order for the main modules development will be determined by the PoC candidates and their needs.    
 
 
@@ -27,11 +36,11 @@ The 2023 roadmap is planned considering the previously announced [2023 Approach 
     - [ ] _Tokens Management_
     - [ ] _Organizations Management_
     - [ ] _City Spaces Management_
-      - [ ] _Check-in Interactions_
-      - [ ] _Idea Streams_
-      - [ ] _Participation Framework_
-      - [ ] _Content Framework_
-      - [ ] _Command Framework_
+    - [ ] _Check-in Interactions_
+    - [ ] _Idea Streams_
+    - [ ] _Participation Framework_
+    - [ ] _Content Framework_
+    - [ ] _Command Framework_
     - [ ] _Digital Rewards Framework_
     - [ ] _Intelligent Agents Management_
     - [ ] _Groups Management_
@@ -46,14 +55,8 @@ The 2023 roadmap is planned considering the previously announced [2023 Approach 
     
     These are the PoC Candidates in no particular order (yet).
 
-  - [ ] _Digital Space Venue_
-    - [ ] _Community PoCC_ 
-    - [ ] _Orders PoCC_
-    - [ ] _Events PoCC_
-  - [ ] _Digital Space Info Desk_
-    - [ ] _Orientation PoCC_
-    - [ ] _Support PoCC_
-    - [ ] _News PoCC_
+  - [ ] _Decision-Making Engine (DME)_
+  - [ ] _Digital Rewards Engine (DRE)_
 
 
 - [ ] **The MVP** (v0.1.0)
