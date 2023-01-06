@@ -16,7 +16,7 @@ The 2023 roadmap is planned considering the previously announced [2023 Approach 
 
 ## Milestones Roadmap 
 
-- [ ] **Install IM.CITY** as a _Digital Spaces Platform_
+- [ ] **[Install IM.CITY](https://IM.CITY){:target="_blank"}** as a _Digital Spaces Platform_
 - [ ] **[Develop DME](https://CityOs.dev/elements/decision-making-engine/)** (Decision-Making Engine)
 - [ ] **Install CityOS.World**  as a _Digital Cities Platform_
 - [ ] **Develop DRE** (Digital Rewards Engine)
