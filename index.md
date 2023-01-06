@@ -14,7 +14,7 @@ last_modified_date: 2022-11-17 10:40
 
 &nbsp;
 
-# Building Digital City Spaces
+# Building the Operating System for Digital City Spaces
 
 &nbsp;
 
@@ -59,11 +59,11 @@ As our **social spaces are increasingly digital**, it's only natural to call the
 
 The main component of a digital space is **the Venue**, where the attendees conduct their social interactions within the participatory and collaborative systems of the CityOS.    
 
-Additionally, each digital space can have an **Info Desk**, an **Orders Desk**, and a **News Desk**.
+Additionally, each digital space can have various types of **Info Desks**.
 
 Various interactions within the Digital Space can be **rewarded** with **digital tokens** for their positive impact on the community.
 
-The attendees can also interact with **Intelligent Agents** that are able to provide information, services, and products to the attendees.
+The attendees can also interact with **Intelligent Agents**.
 
 
 ## The Utility
@@ -99,4 +99,4 @@ The **Digital City** term describe the digital infrastructure that underlies and
 
 The **Virtual City** is a simulated ecosystem created in a virtual environment, often for entertainment or educational purposes.
 
-[Contact Us]: /pages/contact.html "Contact Us"
+[Contact Us]: /contact/ "Contact Us"
