@@ -91,12 +91,17 @@ The attendees can also interact with **Intelligent Agents**.
 
 ------------------
 
-#### Digital City
 
-The **Digital City** term describe the digital infrastructure that underlies and supports the interactions and activities taking place in urban environments.
+#### The "digital city"
 
-#### Virtual City
+is an online space that allows people to connect and interact with others, share information and experiences, and access real-world assets. This digital version of the city can be accessed through social media, online communities, and other forms of digital interaction. It operates within the confines of reality, offering an online space where people can engage in real interactions and access real-world assets. It is an extension of the physical city, existing in parallel with the physical space and offering new and innovative ways to engage with it.
 
-The **Virtual City** is a simulated ecosystem created in a virtual environment, often for entertainment or educational purposes.
+#### The "virtual city"
+
+exists solely within a simulated environment. It is a city that is created and inhabited through digital technologies, allowing users to interact with a simulated world that is separate from the physical world. The virtual city offers a unique and novel way to engage with a simulated environment, providing users with new and exciting experiences that would not be possible in the physical world.
+
+Read more about this at: [**Digital City Institute**](https://digital.city.institute/physical-digital-virtual/){:target=_blank}
+
+
 
 [Contact Us]: /contact/ "Contact Us"
