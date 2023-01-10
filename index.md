@@ -104,4 +104,27 @@ Read more about this at: [**Digital City Institute**](https://digital.city.insti
 
 
 
+&nbsp;
+
+## The Ecosystem
+
+------------------
+
+
+
+### The virtual city platform, 
+
+called **UR.CITY**, is an innovative experience that will offer users a unique perspective on social urban interaction and decision-making processes. UR.CITY is utilizing Artificial Intelligence to generate unique characters (“virtual citizens”) with diverse psychological profiles and cities with different social approaches based on user choices. It simulates and experiments with different social approaches and modern concepts like Universal Basic Income, Liquid Democracy, Liquid Contracts, etc, and will allow users to experience the impact of their decisions on the virtual society.
+
+### The digital city platform, 
+
+called **IM.CITY**, is designed to provide communities and organizations with tools for conducting collective decision-making processes. This includes a decision-making engine, a digital rewards engine, and digital spaces. These features are powered by artificial intelligence and blockchain technology, and are designed to promote collaboration and participation in decision-making.
+
+### The operating system,
+
+called **CityOS**, is the ultimate goal of IM.CITY and UR.CITY. With CityOS, anyone will be able to create and manage their own digital city and manage their community. This will enable the transition from "social media" to "social spaces" and create a new form of independent cities.
+
+
+
+
 [Contact Us]: /contact/ "Contact Us"
