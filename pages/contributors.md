@@ -21,7 +21,7 @@ The **CityOs** project aims to be a community driven project. We are always look
 He is also the founder of [IM.CITY] and [UR.CITY].
 
 
-Clement is a serial entrepreneur in various technology areas like ecommerce development, smart home technologies, virtual worlds, digital communications and interactions.
+Clement is a serial entrepreneur in various technology areas like ecommerce development, smart home technologies, artificial worlds, digital communications and interactions.
 
 Over the past 10+ years, as the managing director and co-founder of TheLIVE.agency, he coordinated live video production projects in multiple European cities like Bucharest, Amsterdam, Zurich, Paris, Vienna, Geneva, Budapest, and Prague.
 

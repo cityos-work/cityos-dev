@@ -26,7 +26,7 @@ The 2023 roadmap is planned considering the previously announced [2023 Approach 
 
 - [ ] **The Base**
 
-    _The basic framework for the CityOS ecosystem including the common elements for both layers, digital & virtual._
+    _The basic framework for the CityOS ecosystem including the common elements for both layers, digital & artificial._
 
     Here are the potential main modules and elements in no particular order (yet).
     The order for the main modules development will be determined by the PoC candidates and their needs.    
@@ -64,7 +64,7 @@ The 2023 roadmap is planned considering the previously announced [2023 Approach 
     _The minimum viable product for the CityOS ecosystem for each layer._
 
   - [ ] _Digital City Layer_
-  - [ ] _Virtual City Layer_
+  - [ ] _Artificial City Layer_
 
 - [ ] **Beta Version** (V1.0.0)
     

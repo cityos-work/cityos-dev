@@ -87,7 +87,7 @@ The attendees can also interact with **Intelligent Agents**.
 
 &nbsp;
 
-## `digital city` vs `virtual city`
+## `digital city` vs `artificial city`
 
 ------------------
 
@@ -96,11 +96,11 @@ The attendees can also interact with **Intelligent Agents**.
 
 is an online space that allows people to connect and interact with others, share information and experiences, and access real-world assets. This digital version of the city can be accessed through social media, online communities, and other forms of digital interaction. It operates within the confines of reality, offering an online space where people can engage in real interactions and access real-world assets. It is an extension of the physical city, existing in parallel with the physical space and offering new and innovative ways to engage with it.
 
-#### The "virtual city"
+#### The "artificial city"
 
-exists solely within a simulated environment. It is a city that is created and inhabited through digital technologies, allowing users to interact with a simulated world that is separate from the physical world. The virtual city offers a unique and novel way to engage with a simulated environment, providing users with new and exciting experiences that would not be possible in the physical world.
+exists solely within a simulated environment. It is a city that is created and inhabited through digital technologies, allowing users to interact with a simulated world that is separate from the physical world. The artificial city offers a unique and novel way to engage with a simulated environment, providing users with new and exciting experiences that would not be possible in the physical world.
 
-Read more about this at: [**Digital City Institute**](https://digital.city.institute/physical-digital-virtual/){:target=_blank}
+Read more about this at: [**Digital City Institute**](https://digital.city.institute/physical-digital-artificial/){:target=_blank}
 
 
 
@@ -112,9 +112,9 @@ Read more about this at: [**Digital City Institute**](https://digital.city.insti
 
 
 
-### The virtual city platform, 
+### The artificial city platform, 
 
-called **UR.CITY**, is an innovative experience that will offer users a unique perspective on social urban interaction and decision-making processes. UR.CITY is utilizing Artificial Intelligence to generate unique characters (“virtual citizens”) with diverse psychological profiles and cities with different social approaches based on user choices. It simulates and experiments with different social approaches and modern concepts like Universal Basic Income, Liquid Democracy, Liquid Contracts, etc, and will allow users to experience the impact of their decisions on the virtual society.
+called **UR.CITY**, is an innovative experience that will offer users a unique perspective on social urban interaction and decision-making processes. UR.CITY is utilizing Artificial Intelligence to generate unique characters (“artificial citizens”) with diverse psychological profiles and cities with different social approaches based on user choices. It simulates and experiments with different social approaches and modern concepts like Universal Basic Income, Liquid Democracy, Liquid Contracts, etc, and will allow users to experience the impact of their decisions on the artificial society.
 
 ### The digital city platform, 
 
